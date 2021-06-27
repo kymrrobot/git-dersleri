@@ -1,6 +1,6 @@
 # git-dersleri
 
-![memo&mahmo]()
+![memo&mahmo](https://github.com/kymrrobot/git-dersleri/blob/master/images/asdasd.jpg)
 
 ## Alt başlık 1--6'ya kadar
 
